@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>Tab Mixer</title><g transform="translate(-63.87 -63.87) scale(1.499)" fill="none">
+  
+  <g stroke="#17171C" stroke-width="30" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M46 204 V52 L96 120" />
+    <path d="M210 204 V52 L160 120" />
+  </g>
+  <circle cx="128" cy="160" r="32" fill="#4F46E5"/>
+</g></svg>

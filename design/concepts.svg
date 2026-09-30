@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="840" viewBox="0 0 1600 840"><defs><filter id="grey"><feColorMatrix type="saturate" values="0"/></filter></defs><rect width="1600" height="840" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">Logo concepts</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">Concepts for review — pick a direction (or tell me what you like in each).</text><rect x="60" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M46 204 V52 L98 123" />
+    <path d="M210 204 V52 L158 123" />
+  </g>
+  <circle cx="128" cy="164" r="28" fill="#000000"/>
+</svg>
+</g><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M46 204 V52 L98 123" />
+    <path d="M210 204 V52 L158 123" />
+  </g>
+  <circle cx="128" cy="164" r="28" fill="#000000"/>
+</svg>
+</g><text x="122" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="180" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M46 204 V52 L98 123" />
+    <path d="M210 204 V52 L158 123" />
+  </g>
+  <circle cx="128" cy="164" r="28" fill="#000000"/>
+</svg>
+</g><text x="196" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="238" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M46 204 V52 L98 123" />
+    <path d="M210 204 V52 L158 123" />
+  </g>
+  <circle cx="128" cy="164" r="28" fill="#000000"/>
+</svg>
+</g><text x="246" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Fader M</text><text x="90.0" y="664" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="90.0" y="698" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">The M of Media: a monoline M whose meeting</text><text x="90.0" y="724" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">point is a mixing knob</text><rect x="562.667" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <path d="M136 139 L108 194 H164 Z" fill="#000000"/>
+  <path d="M55 148 L217 104" stroke="#000000" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <circle cx="55" cy="107" r="30" fill="#000000"/>
+  <circle cx="217" cy="78" r="15" fill="#000000"/>
+</svg>
+</g><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <path d="M136 139 L108 194 H164 Z" fill="#000000"/>
+  <path d="M55 148 L217 104" stroke="#000000" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <circle cx="55" cy="107" r="30" fill="#000000"/>
+  <circle cx="217" cy="78" r="15" fill="#000000"/>
+</svg>
+</g><text x="624.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="682.667" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <path d="M136 139 L108 194 H164 Z" fill="#000000"/>
+  <path d="M55 148 L217 104" stroke="#000000" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <circle cx="55" cy="107" r="30" fill="#000000"/>
+  <circle cx="217" cy="78" r="15" fill="#000000"/>
+</svg>
+</g><text x="698.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="740.667" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <path d="M136 139 L108 194 H164 Z" fill="#000000"/>
+  <path d="M55 148 L217 104" stroke="#000000" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <circle cx="55" cy="107" r="30" fill="#000000"/>
+  <circle cx="217" cy="78" r="15" fill="#000000"/>
+</svg>
+</g><text x="748.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · Seesaw</text><text x="592.6666666666667" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Turn one down, the other up: two volumes</text><text x="592.6666666666667" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">balancing on one beam</text><rect x="1065.33" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M48 72 H208"/>
+    <path d="M48 128 H208"/>
+    <path d="M48 184 H208"/>
+  </g>
+  <circle cx="92" cy="72" r="22" fill="#000000"/>
+  <circle cx="168" cy="128" r="22" fill="#000000"/>
+  <circle cx="120" cy="184" r="22" fill="#000000"/>
+</svg>
+</g><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M48 72 H208"/>
+    <path d="M48 128 H208"/>
+    <path d="M48 184 H208"/>
+  </g>
+  <circle cx="92" cy="72" r="22" fill="#000000"/>
+  <circle cx="168" cy="128" r="22" fill="#000000"/>
+  <circle cx="120" cy="184" r="22" fill="#000000"/>
+</svg>
+</g><text x="1127.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1185.33" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M48 72 H208"/>
+    <path d="M48 128 H208"/>
+    <path d="M48 184 H208"/>
+  </g>
+  <circle cx="92" cy="72" r="22" fill="#000000"/>
+  <circle cx="168" cy="128" r="22" fill="#000000"/>
+  <circle cx="120" cy="184" r="22" fill="#000000"/>
+</svg>
+</g><text x="1201.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1243.33" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <title>Media Controller</title>
+  <g stroke="#000000" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M48 72 H208"/>
+    <path d="M48 128 H208"/>
+    <path d="M48 184 H208"/>
+  </g>
+  <circle cx="92" cy="72" r="22" fill="#000000"/>
+  <circle cx="168" cy="128" r="22" fill="#000000"/>
+  <circle cx="120" cy="184" r="22" fill="#000000"/>
+</svg>
+</g><text x="1251.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · Mixer Rack</text><text x="1095.3333333333335" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Three fader tracks, each knob at its own</text><text x="1095.3333333333335" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">level: per-tab volume</text></svg>

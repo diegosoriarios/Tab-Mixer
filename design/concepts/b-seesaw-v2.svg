@@ -1,0 +1,7 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Media Controller</title>
+  <path d="M136 139 L108 194 H164 Z" fill="#000000"/>
+  <path d="M55 148 L217 104" stroke="#000000" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <circle cx="55" cy="107" r="30" fill="#000000"/>
+  <circle cx="217" cy="78" r="15" fill="#000000"/>
+</svg>

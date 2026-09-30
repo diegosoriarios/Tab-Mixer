@@ -1,0 +1,56 @@
+<svg width="675" height="256" viewBox="0 0 675 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Tab Mixer</title>
+  <!-- Symbol: Fader M -->
+  <g transform="translate(-14.9 22.8) scale(0.8)">
+    <g stroke="#17171C" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M46 204 V52 L98 123" />
+      <path d="M210 204 V52 L158 123" />
+    </g>
+    <circle cx="128" cy="164" r="28" fill="#4F46E5"/>
+  </g>
+  <!-- Wordmark: "tab mixer" lowercase monoline, x-height 52, stroke 9, baseline at y=197 -->
+  <g transform="translate(203.5 197)" stroke="#17171C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- t -->
+    <g>
+      <path d="M21 0 V-72"/>
+      <path d="M4.5 -52 H37.5"/>
+    </g>
+    <!-- a -->
+    <g transform="translate(51 0)">
+      <path d="M4.5 -26 A21.5 21.5 0 1 1 47.5 -26 A21.5 21.5 0 1 1 4.5 -26"/>
+      <path d="M47.5 0 V-52"/>
+    </g>
+    <!-- b -->
+    <g transform="translate(115 0)">
+      <path d="M4.5 0 V-76"/>
+      <path d="M4.5 -26 A21.5 21.5 0 1 1 47.5 -26 A21.5 21.5 0 1 1 4.5 -26"/>
+    </g>
+    <!-- m -->
+    <g transform="translate(191 0)">
+      <path d="M4.5 0 V-52"/>
+      <path d="M4.5 -35.75 A11.75 11.75 0 0 1 28 -35.75 A11.75 11.75 0 0 1 51.5 -35.75"/>
+      <path d="M28 0 V-35.75"/>
+      <path d="M51.5 0 V-35.75"/>
+    </g>
+    <!-- i -->
+    <g transform="translate(259 0)">
+      <path d="M4.5 0 V-52"/>
+      <circle cx="4.5" cy="-66" r="8" fill="#4F46E5" stroke="none"/>
+    </g>
+    <!-- x -->
+    <g transform="translate(280 0)">
+      <path d="M4.5 -52 L47.5 0"/>
+      <path d="M47.5 -52 L4.5 0"/>
+    </g>
+    <!-- e -->
+    <g transform="translate(344 0)">
+      <path d="M4.5 -26 A21.5 21.5 0 1 1 47.5 -26 A21.5 21.5 0 1 1 4.5 -26"/>
+      <path d="M4.5 -26 H47.5"/>
+    </g>
+    <!-- r -->
+    <g transform="translate(408 0)">
+      <path d="M4.5 0 V-52"/>
+      <path d="M4.5 -26 A21.5 21.5 0 0 1 47.5 -26"/>
+    </g>
+  </g>
+</svg>
